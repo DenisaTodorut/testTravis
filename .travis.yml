@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarqube:
-    organization: "DenisaTodorut"
+    organization: "msgjt-github"
     branches:
       - master
       - develop
